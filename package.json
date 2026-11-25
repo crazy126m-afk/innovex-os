@@ -1,0 +1,16 @@
+{
+  "name": "innovex-os",
+  "version": "1.0.0",
+  "description": "INNOVEX OS: Autonomous Multi-Domain Resilience Operating System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "hackathon",
+    "innovex",
+    "resilience-os"
+  ],
+  "author": "Team INNOVEX",
+  "license": "ISC"
+}
